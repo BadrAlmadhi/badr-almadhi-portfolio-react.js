@@ -1,19 +1,21 @@
 import React from "react";
-import Home from "./components/Home";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Services from "./components/Services";
-import NavTabs from "./components/NavTabs";
+import PortfolioContainer from "./components/PortfolioContainer";
+import myPhoto from "./asses/myphoto.png";
+import Icons from "./components/Icons"
 import "./components/styles/App.css";
 
 export default function App() {
   return (
     <div>
-      <NavTabs />
-      <Services />
-      {/* <Contact /> */}
-      {/* <About /> */}
-      {/* <Home /> */}
+      <div>
+        <PortfolioContainer />
+      </div>
+      <div>
+        <img src={myPhoto} />
+      </div>
+      <div>
+        <Icons />
+      </div>
     </div>
   );
 }

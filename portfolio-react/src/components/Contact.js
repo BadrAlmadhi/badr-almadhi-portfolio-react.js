@@ -2,8 +2,8 @@ import React from "react";
 
 function Contact () {
 return (
-    <section class="home">
-    <div class="home-content">
+    <section className="home">
+    <div className="home-content">
       <h1>Hi, I'm Badr Almadhi</h1>
       <h3>Coding BootCamp Student</h3>
       <p>I would love to express my sincere for considering my application.</p>

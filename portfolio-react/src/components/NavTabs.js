@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles/NavTabs.css";
 
-function NavTabs() {
+function NavTabs({ currentPage, handlePageChange}) {
   return (
     <header className="header">
       <a
@@ -13,12 +13,34 @@ function NavTabs() {
 
       <nav className="navbar">
         {/* add home index */}
-        <a href="add home index here" className="active">
+        <a
+          href="#home"
+          onClick={() => handlePageChange('Home')}
+          className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
+        >
           Home
         </a>
-        <a href="about/about.html">About</a>
-        <a href="serves/serves.html">Service</a>
-        <a href="contact/contact.html">Contact</a>
+        <a
+          href="#about"
+          onClick={() => handlePageChange('About')}
+          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+        >
+          About
+        </a>
+        <a
+          href="#service"
+          onClick={() => handlePageChange('Service')}
+          className={currentPage === 'Service' ? 'nav-link active' : 'nav-link'}
+        >
+          Service
+        </a>
+        <a
+          href="#contact"
+          onClick={() => handlePageChange('Contact')}
+          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+        >
+          Contact
+        </a>
       </nav>
     </header>
   );

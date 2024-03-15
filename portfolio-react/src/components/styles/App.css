@@ -17,3 +17,12 @@ body {
     background-color: #081b29;
     color: #ededed;
 }
+
+img {
+    position: absolute;
+    right: 150px;
+    height: 450px;
+    top: 200px;
+    opacity: 0.8;
+}
+
