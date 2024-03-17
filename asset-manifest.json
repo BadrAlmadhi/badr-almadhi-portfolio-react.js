@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/badr-almadhi-portfolio-react.js/static/css/main.690585be.css",
+    "main.js": "/badr-almadhi-portfolio-react.js/static/js/main.b743ae8d.js",
+    "static/media/resume.png": "/badr-almadhi-portfolio-react.js/static/media/resume.b4dfafecd54f58502f9b.png",
+    "static/media/Screenshot.png": "/badr-almadhi-portfolio-react.js/static/media/Screenshot.a5073f1c3defa81c8b67.png",
+    "static/media/myphoto.png": "/badr-almadhi-portfolio-react.js/static/media/myphoto.ba59f021a26c3df884e1.png",
+    "index.html": "/badr-almadhi-portfolio-react.js/index.html",
+    "main.690585be.css.map": "/badr-almadhi-portfolio-react.js/static/css/main.690585be.css.map",
+    "main.b743ae8d.js.map": "/badr-almadhi-portfolio-react.js/static/js/main.b743ae8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690585be.css",
+    "static/js/main.b743ae8d.js"
+  ]
+}
