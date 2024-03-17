@@ -6,7 +6,7 @@ function About() {
     <section className="home">
       <div className="home-content">
         <h1>Hi, I'm Badr Almadhi</h1>
-        <h3>Coding BootCamp Student</h3>
+        <h3>Coding BootCamp Graduate</h3>
         <p>
           My journey into coding began at the University of Utah while pursuing
           my Bachelor's degree in Architecture/Urban Planning. In my studies, I

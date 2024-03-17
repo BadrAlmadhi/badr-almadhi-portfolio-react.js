@@ -1,25 +1,49 @@
 # Badr Almadhi Portfolio
+
 ## Introduction
 
-Welcome to my professional portfolio, meticulously crafted to showcase my expertise in HTML and CSS. This digital space serves as a testament to my journey in web development, reflecting a commitment to excellence and continuous learning.
+Welcome to my professional portfolio, it is crafted to showcase my expertise in React.js, bootstrap, JavaScript and CSS. This digital space serves as a testament to my journey in web development, reflecting a commitment to excellence and continuous learning.
 
+Table of Contents
 
-**Home Page**:
-Explore my professional narrative, gaining insights into my experiences and the driving force behind my passion for web development. This section aims to provide a comprehensive understanding of the person behind the code.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Tools-used](#tool-used)
+## Installation
 
-**About**:
-Dive into my story, experiences, and what fuels my passion for web development. Get to know the person behind the code.
+To review my project, I have already generated a GitHub Pages site for you to view my portfolio. However, if you prefer to clone it to your localhost, you can simply open VS Code or any preferred code editor and then clone it by following these steps:
 
-**Contact**:
-Find a dedicated space where you can reach out. Whether you have questions, opportunities, or just want to say hello, I'm just a click away.
+1. Open GitHub repo for my project or click [here](https://github.com/BadrAlmadhi/badr-almadhi-portfolio-react.js) to direct you to my repo
+2. Then click in code and copy the HTTPS.
+3. open code editor and then open terminal to clone repo
+4. After terminal is open in your terminal `git clone https....`
 
-**Service**
-During my coding BootCamp, I mastered various programming languages to create dynamic applications. This immersive experience not only enhanced my technical skills but also deepened my appreciation for the art of coding.
+## Usage 
 
-Significance
-This portfolio transcends the conventional digital resume; it stands as a dynamic embodiment of my dedication to perpetual learning and improvement. Each line of code symbolizes a lesson learned, a challenge surmounted, and a stride forward in my evolution as a web developer.
+To use my portfolio, simply open it after you've cloned it. The main page will be displayed. On the homepage, you'll see the navbar to navigate to other pages and a description about me, a resume button, GitHub and LinkedIn buttons, and a "Let's talk" button to direct you to the contact page. Additionally, the Badr logo will take you to my homepage on GitHub. Each page will talk about what I have learned and how I can be valuable to your company and your team.
 
-Connect With Me
-I extend an invitation to explore this portfolio, connecting with me to witness the harmonious fusion of creativity and coding. Your feedback is invaluable as I strive to refine and expand my skills. Thank you for accompanying me on this digital odyssey!
+## Credits
 
-[Explore Portfolio](http://127.0.0.1:5500/badr-almadhi-portfolio-html-css/serves/serves.html)
+What helped me the most to make my portfolio are:
+
+1. [React.js Documentation](https://legacy.reactjs.org/docs/getting-started.html).
+2. [mdn](https://developer.mozilla.org/en-US/).
+3. [w3schools](https://www.w3schools.com/).
+4. [stackoverflow](https://stackoverflow.co/teams/)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Tools-used
+
+[![npm][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/react-icons.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/react-icons
+
+<img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="120" alt="React Icons">
+
+# [React Icons](https://react-icons.github.io/react-icons)
