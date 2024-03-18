@@ -6,7 +6,6 @@ import certificate from "../asses/Screenshot.png"
 
 function Home() {
   const resumePhoto = Resume; 
-  const contactInfo = <Contact />;
   return (
     <section className="home">
       <div className="home-content">
@@ -23,7 +22,6 @@ function Home() {
         </p>
         <div className="btn-box">
           <a href={resumePhoto}>Resume</a>
-          <a href={contactInfo}>Let's Talk</a>
         </div>
       </div>
     </section>
